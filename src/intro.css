@@ -6,7 +6,7 @@
     }
     @media (max-width: 1080px) {
       h2 {
-        font-family: AvenirNext-DemiBold;
+        font-family: "AvenirNext-Medium";
         font-size: 32px;
         color: #ffffff;
         letter-spacing: -2px;
@@ -28,7 +28,7 @@
     }
     section h2 {
       opacity: 0.5;
-      font-family: AvenirNext-Medium;
+      font-family: "AvenirNext-Medium";
       font-size: 13px;
       color: #ffffff;
       letter-spacing: -0.46px;
@@ -139,7 +139,7 @@
       opacity: 0.4;
     }
     h1 {
-      font-family: AvenirNext-DemiBold;
+      font-family: "AvenirNext-Medium";
       font-size: 68px;
       color: #ffffff;
       letter-spacing: -0.24px;
@@ -148,7 +148,7 @@
       margin-top: 12px;
     }
     h2 {
-      font-family: AvenirNext-DemiBold;
+      font-family: "AvenirNext-Medium";
       font-size: 50px;
       color: #ffffff;
       letter-spacing: -2px;
@@ -157,7 +157,7 @@
     }
     p {
       opacity: 0.8;
-      font-family: AvenirNext-Medium;
+      font-family:" AvenirNext-Medium";
       font-size: 22px;
       color: #ffffff;
       letter-spacing: -0.46px;
@@ -165,7 +165,7 @@
     }
     p.small {
       opacity: 0.8;
-      font-family: AvenirNext-Medium;
+      font-family: "AvenirNext-Medium";
       font-size: 14px;
       color: #ffffff;
       letter-spacing: -0.46px;
@@ -250,7 +250,7 @@
       margin-top: 40px;
       z-index: 1;
       opacity: 0.5;
-      font-family: AvenirNext-Medium;
+      font-family: "AvenirNext-Medium";
       float: left;
     }
     @media (min-width: 1560px) {
@@ -269,7 +269,7 @@
     }
     @media (max-width: 1080px) {
       h2 {
-        font-family: AvenirNext-DemiBold;
+        font-family: "AvenirNext-Medium";
         font-size: 32px;
         color: #ffffff;
         letter-spacing: -2px;

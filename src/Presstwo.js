@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import "./presstwo.css"
 
 class Presstwo extends Component {
     render() {

@@ -1,38 +1,4 @@
 @media all {
-    .section.investors {
-      height: 100vh;
-      background: white;
-      padding-top: 50px;
-      padding-bottom: 0px;
-      background-size: cover;
-      height: auto;
-      text-align: center;
-    }
-    .section.investors .container {
-      text-align: center;
-      padding: 40px 0 10px 0;
-      width: 100%;
-    }
-    .section.investors .text h1 {
-      text-align: center;
-      line-height: 42px;
-      font-size: 22px;
-      color: rgb(108, 108, 114);
-      text-shadow: none;
-    }
-    .section.investors .investor_logos {
-      display: inline-block;
-      width: 100%;
-    }
-    .section.investors .investor_logos img {
-      display: inline;
-      margin: 20px 60px;
-      padding: 20px;
-      max-width: 200px;
-      max-height: 70px;
-      margin-left: auto;
-      margin-right: auto;
-    }
     @media (min-width: 1560px) {
       .section .container {
         max-width: 1360px;
@@ -43,9 +9,22 @@
       display: block;
       padding: 1rem;
     }
+    .section.press {
+      height: 100vh;
+      background: white;
+      padding-top: 50px;
+      padding-bottom: 0px;
+      background-size: cover;
+      height: auto;
+      text-align: center;
+    }
+    .section.press .container {
+      text-align: center;
+      padding: 0px 0 50px 0;
+      width: 100%;
+    }
     div,
-    h1,
-    img {
+    iframe {
       background: transparent;
       border: 0;
       font-family: inherit;
@@ -61,28 +40,12 @@
     :focus {
       outline: 0;
     }
-    img {
-      -ms-interpolation-mode: bicubic;
-    }
-    h1 {
-      font-size: 100%;
-      font-weight: normal;
-    }
     * {
       font-family: sans-serif;
     }
     ::-webkit-input-placeholder {
       color: #fff;
       opacity: 0.4;
-    }
-    h1 {
-      font-family: "AvenirNextLTPro-Demi";
-      font-size: 68px;
-      color: #ffffff;
-      letter-spacing: -0.24px;
-      line-height: 90px;
-      margin-bottom: 12px;
-      margin-top: 12px;
     }
     .section {
       display: table;
@@ -105,13 +68,6 @@
       }
     }
     @media (max-width: 1080px) {
-      h1 {
-        font-size: 32px !important;
-        line-height: 38px !important;
-        letter-spacing: -1px !important;
-        text-align: center;
-        margin-bottom: 2px;
-      }
       .section {
         min-width: 100%;
         height: auto !important;
@@ -125,4 +81,23 @@
         text-align: center;
       }
     }
+  }
+  /*! CSS Used from: Embedded */
+  .iframely-responsive {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 0;
+    position: relative;
+    padding-bottom: 56.25%;
+    box-sizing: border-box;
+  }
+  .iframely-responsive > * {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    border: 0;
+    box-sizing: border-box;
   }

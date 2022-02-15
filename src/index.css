@@ -1,15 +1,28 @@
 
+  @font-face {
+    font-family: "AvenirNext-Medium";
+    src: local("AvenirLTStd-Medium"),
+      
+    url("./font/AvenirLTStd-Medium.otf") format("opentype");
+  }
 
   @font-face {
-    font-family: AvenirNext-Medium;
-    src: url("https://portaldefi.com/assets/AvenirLTStd-Medium.otf")
-      format("opentype");
+    font-family: "AvenirNextLTPro-Bold";
+    src: local("AvenirNextLTPro-Bold"),
+      
+    url("./font/AvenirNextLTPro-Bold.otf") format("opentype");
   }
+
+
   @font-face {
-    font-family: AvenirNext-DemiBold;
-    src: url("https://portaldefi.com/assets/AvenirNextLTPro-Demi.otf")
-      format("opentype");
+    font-family: "AvenirNextLTPro-Demi";
+    src: local("AvenirNextLTPro-Demi"),
+      
+    url("./font/AvenirNextLTPro-Demi.otf") format("opentype");
   }
+
+
+ 
   @font-face {
     font-family: "Font Awesome 6 Brands";
     font-style: normal;
@@ -23,8 +36,4 @@
 
 
 
-  @font-face {
-    font-family: AvenirNext-DemiBold;
-    src: url("https://portaldefi.com/assets/AvenirNextLTPro-Demi.otf")
-      format("opentype");
-  }
+ 

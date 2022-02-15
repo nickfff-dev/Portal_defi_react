@@ -3,7 +3,9 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-
+import './font/AvenirLTStd-Medium.otf'
+import './font/AvenirNextLTPro-Bold.otf'
+import './font/AvenirNextLTPro-Demi.otf'
 ReactDOM.render(
   <React.StrictMode>
     <App />

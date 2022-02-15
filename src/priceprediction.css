@@ -10,7 +10,7 @@
       height: 480px;
     }
     .sphere path {
-      fill: url(https://portaldefi.com/assets/application-6bdf35e1b357d77ba525d2c04376e964b29310ab7fd6a671dc5a866c8b454c18.css#sphereGradient);
+      fill: url("https://portaldefi.com/assets/application-6bdf35e1b357d77ba525d2c04376e964b29310ab7fd6a671dc5a866c8b454c18.css#sphereGradient");
       stroke-width: 1px;
       stroke: rgba(238, 17, 146, 0.35);
       backface-visibility: hidden;
@@ -70,7 +70,7 @@
       opacity: 0.4;
     }
     h1 {
-      font-family: AvenirNext-DemiBold;
+      font-family: "AvenirNext-Demi";
       font-size: 68px;
       color: #ffffff;
       letter-spacing: -0.24px;

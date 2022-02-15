@@ -51,14 +51,14 @@
       z-index: 1;
     }
     b {
-      font-family: AvenirNext-Bold !important;
+      font-family:"AvenirNextLTPro-Bold" !important;
     }
     ::-webkit-input-placeholder {
       color: #fff;
       opacity: 0.4;
     }
     h1 {
-      font-family: AvenirNext-DemiBold;
+      font-family: "AvenirNextLTPro-Demi";
       font-size: 68px;
       color: #ffffff;
       letter-spacing: -0.24px;
@@ -68,7 +68,7 @@
     }
     p {
       opacity: 0.8;
-      font-family: AvenirNext-Medium;
+      font-family: "AvenirLTStd-Medium";
       font-size: 22px;
       color: #ffffff;
       letter-spacing: -0.46px;
@@ -90,7 +90,7 @@
       display: inline-block;
     }
     .section.exchange {
-      background: url(https://portaldefi.com/assets/background-exchange.jpg)
+      background: url("https://portaldefi.com/assets/background-exchange.jpg")
         center no-repeat #0f122d;
       background-size: cover;
       min-height: 760px;
@@ -103,7 +103,7 @@
     }
     span.subline {
       text-align: center;
-      font-family: AvenirNext-DemiBold;
+      font-family: "AvenirNextLTPro-Demi";
       font-size: 16px;
       color: #ffffff;
       letter-spacing: 1.6px;
@@ -140,7 +140,7 @@
     .section.exchange .features span {
       display: inline-block;
       width: 356px;
-      font-family: AvenirNext-Medium;
+      font-family: "AvenirLTStd-Medium";
       font-size: 14px;
       color: #ffffff;
       letter-spacing: -0.25px;
@@ -156,7 +156,7 @@
     }
     span.subline {
       text-align: center;
-      font-family: AvenirNext-DemiBold;
+      font-family: "AvenirNextLTPro-Demi";
       font-size: 16px;
       color: #ffffff;
       letter-spacing: 1.6px;

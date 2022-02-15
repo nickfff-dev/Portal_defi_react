@@ -1,8 +1,9 @@
 import React, { Component } from 'react';
 import "./intro.css"
+import Animm from "./animation.svg"
 
 
-class intro extends Component {
+class Intro extends Component {
     render() {
         return (
             
@@ -29,7 +30,7 @@ class intro extends Component {
             <p>Fabric Layer 2</p>
 
                                         <div className="anim">
-                                            <img src="./images/animation.svg"/>
+                                            <img src={ Animm}  alt="fabric layer 2"/>
 
 </div>
       </div>
@@ -40,7 +41,7 @@ class intro extends Component {
     <div className="layer-container">
       <div className="layer map">
       <h2>Portal DeFi Apps</h2>
-        <img src="./images/portal-app-wallet.jpg"/>
+        <img src="/images/portal-app-wallet.jpg"/>
       </div>
     </div>
   </section>
@@ -63,4 +64,4 @@ class intro extends Component {
     }
 }
 
-export default intro;
+export default Intro;

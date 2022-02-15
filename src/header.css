@@ -13,7 +13,7 @@
     i {
       background: transparent;
       border: 0;
-      font-family: inherit;
+      font-family: "AvenirLTStd-Medium";
       font-size: 100%;
       font-style: inherit;
       margin: 0;
@@ -40,7 +40,7 @@
     a {
       color: #ccc;
       font-size: inherit;
-      font-family: AvenirNext-Medium;
+      font-family: "AvenirLTStd-Medium";
     }
     a:hover {
       color: red;
@@ -71,7 +71,7 @@
     }
     .header .menu {
       float: right;
-      font-family: AvenirNext-Medium;
+      font-family: "AvenirNext-Medium"; 
       font-size: 14px;
       color: #fff;
     }
@@ -88,7 +88,6 @@
       display: inline-block;
       cursor: pointer;
       opacity: 0.6;
-      float: left;
       color: #fff;
     }
     .header .menu .tabs a:hover {
@@ -109,7 +108,7 @@
       margin: 8px;
       background: #00bc7a;
       border-radius: 99px;
-      font-family: AvenirNext-DemiBold;
+      font-family: "AvenirNextLTPro-Demi";
       text-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
     }
     @media (min-width: 1560px) {

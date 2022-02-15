@@ -6,7 +6,7 @@
     }
     @media (max-width: 1080px) {
       h2 {
-        font-family: AvenirNext-DemiBold;
+        font-family: "AvenirNextLTPro-Demi";
         font-size: 32px;
         color: #ffffff;
         letter-spacing: -2px;
@@ -55,7 +55,7 @@
       opacity: 0.4;
     }
     h1 {
-      font-family: AvenirNext-DemiBold;
+      font-family: "AvenirNextLTPro-Demi";
       font-size: 68px;
       color: #ffffff;
       letter-spacing: -0.24px;
@@ -64,7 +64,7 @@
       margin-top: 12px;
     }
     h2 {
-      font-family: AvenirNext-DemiBold;
+      font-family: "AvenirNextLTPro-Demi";
       font-size: 50px;
       color: #ffffff;
       letter-spacing: -2px;
@@ -73,7 +73,7 @@
     }
     p {
       opacity: 0.8;
-      font-family: AvenirNext-Medium;
+      font-family: "AvenirNext-Medium";
       font-size: 22px;
       color: #ffffff;
       letter-spacing: -0.46px;
@@ -101,7 +101,7 @@
     }
     @media (max-width: 1080px) {
       h2 {
-        font-family: AvenirNext-DemiBold;
+        font-family: "AvenirNextLTPro-Demi";
         font-size: 32px;
         color: #ffffff;
         letter-spacing: -2px;
@@ -184,7 +184,7 @@
     }
     h2.team-title {
       text-align: center;
-      font-family: AvenirNext-DemiBold;
+      font-family: "AvenirNextLTPro-Demi";
       font-size: 22px;
       color: #ffffff;
       letter-spacing: 0.9px;
@@ -192,14 +192,14 @@
     }
     .team-role {
       text-align: center;
-      font-family: AvenirNext-Medium;
+      font-family: "AvenirNext-Medium";
       font-size: 16px;
       color: #ffffff;
       opacity: 0.8;
     }
     .team-description {
       text-align: center;
-      font-family: AvenirNext-Medium;
+      font-family: "AvenirNext-Medium";
       font-size: 14px;
       color: #ffffff;
       opacity: 0.8;
