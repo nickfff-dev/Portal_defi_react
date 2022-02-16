@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Header from './Header';
 import Press from './Press';
@@ -21,7 +21,7 @@ function App() {
       <Team/>
       <Press />
       <Presstwo />
-    
+      <Videosec />
       <Footer />
     </div>
   );

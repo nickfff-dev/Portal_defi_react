@@ -1,4 +1,21 @@
 @media all {
+
+  .placeholder{
+    background: center center / cover rgb(0, 0, 0); 
+    width: 339px;
+    height: 200px;
+
+  }
+
+  .embed-youtube  a{
+    display: flex;
+     justify-content: center; 
+     align-items: center; 
+     width: 100%;
+      height: inherit; 
+     opacity: 0.85;
+
+  }
     @media (min-width: 1560px) {
       .section .container {
         max-width: 1360px;
