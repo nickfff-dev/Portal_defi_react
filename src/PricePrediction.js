@@ -108,7 +108,7 @@ class PricePrediction extends Component {
                                 
                             <div className="animation-wrapper">
   <div className="sphere-animation">
-    <svg className="sphere" viewBox="0 0 440 440" stroke="rgba(238,17,146, 0.15)">
+    <svg className="sphere" viewBox="0 0 440 440" stroke="rgba(238,17,146, 0.35)">
       <defs>
         <linearGradient id="sphereGradient" x1="25%" x2="25%" y1="0%" y2="75%">
           <stop stopColor="#00BC7A" offset="0%"/>
