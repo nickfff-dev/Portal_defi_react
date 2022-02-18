@@ -346,4 +346,8 @@
     }
   }
 
-  
+  .layer-container div.layer *{top:-1rem;right:-1rem;}
+.anim svg g path{stroke-width:5;}
+:focus{outline:0;}
+*{font-family:sans-serif;}
+::-webkit-input-placeholder{color:#fff;opacity:0.4;}
