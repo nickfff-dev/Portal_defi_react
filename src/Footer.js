@@ -7,7 +7,7 @@ class Footer extends Component {
             <div className="section footer">
             <div className="container">
               <ul className="feature-resources">
-                <li><div className=""><img src="/images/portal-logo.gif" className="logo-footer"/></div></li>
+                <li><div className=""><img src="https://portaldefi.com/assets/portal-logo.gif" className="logo-footer" alt="logofoot"/></div></li>
                 <li><a href="https://github.com/FabricLabs/fabric" ><i className="fa-brands fa-github"></i></a></li>
                 <li><a href="https://twitter.com/portal_finance" ><i className="fa-brands fa-twitter"></i></a></li>
                 <li><a href="https://t.me/getportal" ><i className="fa-brands fa-telegram"></i></a></li>

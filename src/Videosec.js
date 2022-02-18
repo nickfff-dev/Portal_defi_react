@@ -32,7 +32,7 @@ class Videosec extends Component {
                     <ul>
                         {this.state.dataforembed.map((embedy, index)=>{ 
   return (
-      <li key={index}>  <Embed as="div" id={embedy.id} autohide={false} hd={true}  url={`https://www.youtube.com/embed/${embedy.id}`} width="100%" height="500" autoplay={true} onClick={this.onClickHandler.bind(this)} active= "true" className="embed" style={{ background: `url(${embedy.placeholder}) center center / cover rgb(0, 0, 0)`,  width: "339px", height: "150px" }}/> 
+      <li key={index}>  <Embed as="div" id={embedy.id} autohide={false} hd={true}  url={`https://www.youtube.com/embed/${embedy.id}`} width="100%" height="500" autoplay="true" onClick={this.onClickHandler.bind(this)} active= {true} className="embed" style={{ background: `url(${embedy.placeholder}) center center / cover rgb(0, 0, 0)`,  width: "339px", height: "150px" }}/> 
       <p>{embedy.title}</p>  </li>)})}
         
                     </ul>

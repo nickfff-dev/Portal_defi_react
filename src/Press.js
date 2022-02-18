@@ -12,10 +12,10 @@ class Press extends Component {
 
         <div className="press">
     <div className="logos">
-        <img src="https://portaldefi.com/assets/logos/coindesk.png"/>
-        <img src="https://portaldefi.com/assets/logos/Cointelegraph_logo.png"/>
-        <img src="https://portaldefi.com/assets/logos/businesswire.png"/>
-        <img src="https://portaldefi.com/assets/logos/finsmes-logo.png"/>
+        <img src="https://portaldefi.com/assets/logos/coindesk.png" alt="coindesk"/>
+        <img src="https://portaldefi.com/assets/logos/Cointelegraph_logo.png" alt="cointelegraph"/>
+        <img src="https://portaldefi.com/assets/logos/businesswire.png" alt="businesswire"/>
+        <img src="https://portaldefi.com/assets/logos/finsmes-logo.png" alt="finsmes"/>
     </div>
 </div>
 
