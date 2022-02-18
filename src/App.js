@@ -9,6 +9,7 @@ import Presstwo from './Presstwo';
 import Footer from './Footer';
 import Team from './Team';
 import Videosec from './Videosec';
+import Contact from './Contact';
 
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
       <Press />
       <Presstwo />
       <Videosec />
+      <Contact />
       <Footer />
     </div>
   );
